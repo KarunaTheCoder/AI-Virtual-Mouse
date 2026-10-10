@@ -1,6 +1,4 @@
-cv2,
-mediapipe,
-pyautogui,
-math,
-time,
-streamlit,
+opencv-python
+mediapipe
+pyautogui
+streamlit
